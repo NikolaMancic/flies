@@ -1,0 +1,20 @@
+body {
+    background-color: #3C2309;
+}
+
+canvas {
+    background-color: white;
+    display: block;
+    margin: 0 auto;
+}
+
+img {
+    display: none;
+}
+
+div#controls {
+    color: white;
+    display: block;
+    margin: 0 auto;
+    width: 300px
+}
